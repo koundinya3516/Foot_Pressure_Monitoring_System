@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "use_8762e")(type "KiCad")(uri "${KIPRJMOD}/USE-8762E_Library.pretty/use_8762e.kicad_sym")(options "")(descr ""))
+  (lib (name "ble")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty/Library.pretty/ble.kicad_sym")(options "")(descr ""))
+  (lib (name "USE_8762E")(type "KiCad")(uri "${KIPRJMOD}/USE_8762E.kicad_sym")(options "")(descr ""))
+  (lib (name "xc6206p332mr")(type "KiCad")(uri "${KIPRJMOD}/xc6206p332mr.kicad_sym")(options "")(descr ""))
+)
