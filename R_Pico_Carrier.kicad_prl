@@ -1,7 +1,7 @@
 {
   "board": {
     "active_layer": 0,
-    "active_layer_preset": "All Layers",
+    "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
@@ -53,9 +53,9 @@
     "zone_display_mode": 0
   },
   "git": {
-    "repo_type": "ssh",
-    "repo_username": "git",
-    "ssh_key": "/home/vas/.ssh/GS_BitBucket"
+    "repo_type": "https",
+    "repo_username": "",
+    "ssh_key": ""
   },
   "meta": {
     "filename": "R_Pico_Carrier.kicad_prl",
@@ -87,16 +87,16 @@
       9
     ],
     "col_widths": [
-      186,
-      171,
-      112,
-      79,
-      112,
-      112,
-      112,
-      83,
-      112,
-      112
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
